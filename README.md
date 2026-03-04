@@ -1,6 +1,7 @@
 # Entrega_modulo-1
 **Grupo λ**
-- Nicolas Sarmiento 
+- Nicolas Sarmiento:
+<https://github.com/Nicolas-Sarmiento-Lugones/Modulo-1>
 - Juan Zingaretti: <https://github.com/juan-zingaretti/modulo-1>
 - Raimundo Glasner: <https://github.com/RaimundoGlasner/modulo-1>
 - Joaquin Notti:  <https://github.com/Joaco-Notti/m-dulo-1>

@@ -1,5 +1,6 @@
 # Entrega_modulo-1
 **Grupo λ**
+<https://gemini.google.com/share/42fbb731bcad>
 - Nicolas Sarmiento:
 <https://github.com/Nicolas-Sarmiento-Lugones/Modulo-1>
 - Juan Zingaretti: <https://github.com/juan-zingaretti/modulo-1>

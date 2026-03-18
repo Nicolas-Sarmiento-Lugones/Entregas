@@ -13,3 +13,4 @@
 |Raimundo Glasner|Raimundoglasneruncuyo@gmail.com|2614606883|
 |Zingaretti Juan|juanzingaretti85@gmail.com|2622444003|
 |Peiro Francisco|franpeiro15@gmail.com|2615176847|
+|Nicolas Sarmiento Lugones|sarmientonicolas090@gmail.com|2616542651|

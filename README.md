@@ -11,3 +11,5 @@
 | Nombre y Apellido | Dirección de mail | Número de teléfono |
 |:-----------------:|:-----------------:|:------------------:|
 |Raimundo Glasner|Raimundoglasneruncuyo@gmail.com|2614606883|
+|:-----------------:|:-----------------:|:------------------:|
+|Zingaretti Juan|juanzingaretti85@gmail.com|2622444003|

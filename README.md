@@ -7,6 +7,4 @@
 - Joaquin Notti:  <https://github.com/Joaco-Notti/m-dulo-1>
 - Francisco Peiro:
   <https://github.com/Francisco-Peiro/M-dulo-1>
-  | Nombre y Apellido | Dirección de mail | Número de teléfono |
-|:-----------------:|:-----------------:|:------------------:|
-|Raimundo Glasner|Raimundoglasneruncuyo@gmail.com|2614606883|
+  

@@ -16,4 +16,4 @@
 |Zingaretti Juan|juanzingaretti85@gmail.com|2622444003|
 |Peiro Francisco|franpeiro15@gmail.com|2615176847|
 |Nicolas Sarmiento Lugones|sarmientonicolas090@gmail.com|2616542651|
-|Notti Joaquin|joaquinotti28@gmail.com|2616558841|
+|Notti Joaquin|joaquinnotti28@gmail.com|2616558841|
